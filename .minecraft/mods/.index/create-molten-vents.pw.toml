@@ -1,0 +1,13 @@
+filename = 'molten_vents-1.20.1-2.0.8.jar'
+name = 'Molten Vents'
+side = 'both'
+
+[download]
+hash = 'b1c8157645831892f5c278a07976a376d540eacf519560b117cd082df493590cce4c6efc482283a5c68d615171688e4f7f25626213c05a7b727c1fa5811db8a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uuVy6k1s/versions/poBMa9OK/molten_vents-1.20.1-2.0.8.jar'
+
+[update.modrinth]
+mod-id = 'uuVy6k1s'
+version = 'poBMa9OK'

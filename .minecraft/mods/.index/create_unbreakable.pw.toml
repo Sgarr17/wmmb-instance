@@ -1,0 +1,13 @@
+filename = 'CreateUnbreakableTools-1.2+forge-1.20.1.jar'
+name = 'Create: Unbreakable Tools'
+side = 'both'
+
+[download]
+hash = 'dc850579ff7b6d7052d304d5e794c1afc5bbedadf14c4db133e61772ea809d343f37f8c8661df334fd3c6f63945e00d672e8e2478c27b752ce9daa5ea689d50a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bzzq7Auj/versions/R5EZEXvU/CreateUnbreakableTools-1.2%2Bforge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'bzzq7Auj'
+version = 'R5EZEXvU'

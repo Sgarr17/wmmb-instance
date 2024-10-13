@@ -1,0 +1,13 @@
+filename = 'right-click-harvest-3.2.3+1.20.1-forge.jar'
+name = 'Right Click Harvest'
+side = 'both'
+
+[download]
+hash = '811c62891b2cc740429830b48b9f4f8c3e6c8500'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4690530
+project-id = 452834

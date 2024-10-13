@@ -1,0 +1,13 @@
+filename = 'wthitharvestability-mc1.20.1-2.2.0.jar'
+name = 'WTHIT Harvestability'
+side = 'both'
+
+[download]
+hash = '4201b4863d89437334f1a6644e4ae76dde3154121ced191f325e5dd7dc07fa3c78d56e6b5b36100ab256d7f006b5410d329056cacd319ea3cc85ae9d9e2eca0d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jBRYuw8o/versions/NBXJWCwc/wthitharvestability-mc1.20.1-2.2.0.jar'
+
+[update.modrinth]
+mod-id = 'jBRYuw8o'
+version = 'NBXJWCwc'

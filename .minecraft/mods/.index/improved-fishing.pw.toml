@@ -1,0 +1,13 @@
+filename = 'improvedfishing-1.0-1.20-1.20.1.jar'
+name = 'Improved Fishing Forge/Fabric'
+side = 'both'
+
+[download]
+hash = '6d225288e196b268d06859f562d108e7336c6e3474e7fed21928c60e7a6cef08008061d90bf12b7386d2a836a0fdd957eac8b97a0b15f07c30a85ad6cea5168c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mevGvwtz/versions/PmRwNZO5/improvedfishing-1.0-1.20-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'mevGvwtz'
+version = 'PmRwNZO5'

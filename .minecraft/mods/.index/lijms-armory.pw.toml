@@ -1,0 +1,13 @@
+filename = 'lijms_armory-1.1.0.jar'
+name = "Create: Lijm's Armory"
+side = 'both'
+
+[download]
+hash = '270f2522f5ed3d279d529ac6d3adfa9f8069a3f9ebe78c6412edd439d20e1b72a1d3f0f403817c00129e626c5cc6103449258ea54487ce4b816ea726b1d1ae02'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NoWahEf5/versions/qp8RCu5O/lijms_armory-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'NoWahEf5'
+version = 'qp8RCu5O'

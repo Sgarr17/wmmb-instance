@@ -1,0 +1,13 @@
+filename = 'arsnouveaudelight-1.0.3-1.20.1.jar'
+name = 'Ars Nouveau Delight'
+side = 'both'
+
+[download]
+hash = 'd48039e4cd1184e845ed7ecbb8a75fbf262e842ce21041e17e075710b88602a70ca239ca65df7a9edd6b7ec050a057a869158727ab5dd144ceee2c73a6c5bb53'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XjqM4mMx/versions/kiois2RU/arsnouveaudelight-1.0.3-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'XjqM4mMx'
+version = 'kiois2RU'

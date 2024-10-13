@@ -1,0 +1,1 @@
+craftingTable.addShapeless("wheat_seeds_to_green_dye", <item:minecraft:green_dye>, [<item:minecraft:wheat_seeds>, <item:minecraft:wheat_seeds>, <item:minecraft:wheat_seeds>, <item:minecraft:wheat_seeds>]);

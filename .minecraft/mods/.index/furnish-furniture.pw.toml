@@ -1,0 +1,13 @@
+filename = 'furnish-26-forge.jar'
+name = 'Furnish'
+side = 'both'
+
+[download]
+hash = '8ffad646b33d65c849aa1bb967b0a112154b96619580070800c4ee0911ba6eead9af207efeed19b9e916cd4e2133c782942e5d10e1fb81b8270d6aaeda623e88'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5cWCtJmf/versions/CnvI4dD5/furnish-26-forge.jar'
+
+[update.modrinth]
+mod-id = '5cWCtJmf'
+version = 'CnvI4dD5'

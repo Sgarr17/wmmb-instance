@@ -1,0 +1,13 @@
+filename = 'create_lt-1.0.1-forge-mc1.20.1.jar'
+name = 'Create: Less Ticking'
+side = 'server'
+
+[download]
+hash = 'b08d2ac0d97883a97a8cc4a32196afdee14c39872cfb205344b09fd7cbe714d43ae73d7c701d017f9f09b0929a6443e55bfc20ef7859853aecbc47366c6ccd63'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RQANGB0o/versions/uHXb1GIj/create_lt-1.0.1-forge-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'RQANGB0o'
+version = 'uHXb1GIj'

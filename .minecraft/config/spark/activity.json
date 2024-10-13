@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SGarr17",
+      "uniqueId": "102f5cbe-d2ea-4f8a-8903-12d0f0c74b1e"
+    },
+    "time": 1728392906126,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/6Cyja2ajEI"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SGarr17",
+      "uniqueId": "102f5cbe-d2ea-4f8a-8903-12d0f0c74b1e"
+    },
+    "time": 1728364064084,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/GsDCFz54Kg"
+    }
+  }
+]

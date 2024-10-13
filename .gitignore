@@ -1,0 +1,37 @@
+# Ignore these files
+.minecraft/imgui.log
+.minecraft/o_prof
+.minecraft/observable_announce
+.minecraft/patchouli_data.json
+.minecraft/TrashSlotSaveState.json
+.minecraft/usercache.json
+.minecraft/usernamecache.json
+
+# Ignore these directories
+.minecraft/armourers_workshop
+.minecraft/coremods
+.minecraft/crash-reports
+.minecraft/defaultconfigs
+.minecraft/journeymap
+.minecraft/local
+.minecraft/logs
+.minecraft/mod_data
+.minecraft/modernfix
+.minecraft/patchouli_books
+.minecraft/resourcepacks
+.minecraft/saves
+.minecraft/schematics
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/shaderpacks/*.txt
+.minecraft/texturepacks
+
+# Allow these files
+!.minecraft/resourcepacks/Better_Leaves_71.21.zip
+!.minecraft/resourcepacks/Fancy_Crops_v1.0_f5-34.zip
+!.minecraft/resourcepacks/MoreGrassHeights1.1.zip
+!.minecraft/resourcepacks/Os_Colorful_Cobblestone.zip
+!.minecraft/resourcepacks/Os_Colorful_Leaves.zip
+!.minecraft/resourcepacks/Reddys_Improved_Grass_Chocolate
+
+# Allow these directories

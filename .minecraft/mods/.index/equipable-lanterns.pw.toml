@@ -1,0 +1,13 @@
+filename = 'equipablelanterns-1.0.0-forge-1.20.1.jar'
+name = 'Equipable Lanterns'
+side = 'both'
+
+[download]
+hash = 'cc8ef5d20d7acda0f260a32a9640e76dccda75364c80ed2ba12f62a4ecd721253b7288bebe3743d01a78fcdcef8b0feb5d74c5f1309994e4b0b93b4a6f779938'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NJh9Fo13/versions/4yIWAg5r/equipablelanterns-1.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'NJh9Fo13'
+version = '4yIWAg5r'

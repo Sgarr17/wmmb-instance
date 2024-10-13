@@ -1,0 +1,13 @@
+filename = 'spider_webs_kinda_burn-1.0.2-forge-1.20.1.jar'
+name = 'Spider Webs kinda burn'
+side = 'both'
+
+[download]
+hash = 'e4fd441cd990c3e88989f6e5bb70dd4225d238f955a01863bffbb98fb32f918cb7063cef19b9aa78593d8e9e0fd84e28f186460a6563cd99c44b0b1101872529'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KYy3ynYd/versions/LFLf8TIL/spider_webs_kinda_burn-1.0.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'KYy3ynYd'
+version = 'LFLf8TIL'
